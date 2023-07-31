@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='practice',
+setup(name='package_name',
       version='0.1',
       description='Function to add two numbers',
       url='http://github.com/rpanagides/module_nine_repo/package_name/module_nine',
