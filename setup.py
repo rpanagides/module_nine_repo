@@ -7,4 +7,4 @@ setup(name='package_name',
       author='Reanna Panagides',
       author_email='reannapanagides@gmail.com',
       license='MIT',
-      packages=['module_nine'])
+      packages=['package_name'])
